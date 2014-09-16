@@ -1,0 +1,17 @@
+.row {
+  max-width: 900px;
+}
+
+.left {
+  float: left;
+  width: 50%;
+}
+
+.right {
+  float: right;
+  width: 50%;
+}
+
+img {
+  height: 300px;
+}
