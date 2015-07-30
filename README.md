@@ -1,9 +1,4 @@
----
-tags: html, css, kids, to-do
-languages: html, css
-type: to-do
-level: 1
----
+
 
 ## LeTs GrOw...
 
