@@ -13,3 +13,5 @@ We are currently growing six different vegetables. You task is to take all 6 and
 Along with putting the vegetables in even rows, you will also want to add markers to each vegetable so everyone knows what types you're growing. 
 
 Feel free to add additional styling to make the header look good and change the background. 
+
+<a href='https://learn.co/lessons/hs-css-todo' data-visibility='hidden'>View this lesson on Learn.co</a>
